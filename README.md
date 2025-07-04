@@ -58,6 +58,7 @@ This tool is aimed at enhancing road safety by detecting actions such as texting
 ```bash
 git clone https://github.com/your-username/distracted-driver-detection.git
 cd distracted-driver-detection
+```
 
 ## Installation & Usage
 
@@ -66,7 +67,7 @@ Ensure Python 3.7+ is installed, then run:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 🧠 Model Weights  
 Make sure the pre-trained model file `model_vgg16.h5` is available in the project directory.
 
@@ -83,12 +84,12 @@ Place the `model_vgg16.h5` file in the root of the project directory.
 
 ```bash
 python app.py
-
+```
 Once the server starts, open your browser and go to:
 
 ```bash
 http://127.0.0.1:5000
-
+```
 
 Use the web interface to upload images and view predictions in real time.
 
