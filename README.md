@@ -97,9 +97,9 @@ Use the web interface to upload images and view predictions in real time.
 
 ## Screenshots
 
-<img src="https://github.com/your-username/distracted-driver-detection/blob/main/screenshots/interface.png" alt="Web Interface Screenshot">  
+<img src="https://github.com/hitha-cse513/DistractedDriverDetection/blob/main/screenshots/interface.png" alt="Web Interface Screenshot">  
 <br>  
-<img src="https://github.com/your-username/distracted-driver-detection/blob/main/screenshots/prediction.png" alt="Prediction Example">
+<img src="https://github.com/hitha-cse513/DistractedDriverDetection/blob/main/screenshots/prediction.png" alt="Prediction Example">
 
 ---
 
