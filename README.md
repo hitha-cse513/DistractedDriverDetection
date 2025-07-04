@@ -62,7 +62,7 @@ cd distracted-driver-detection
 
 ## Installation & Usage
 
-**### 📦 Install Dependencies  **
+### 📦 Install Dependencies
 Ensure Python 3.7+ is installed, then run:
 
 ```bash
