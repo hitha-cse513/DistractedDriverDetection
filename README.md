@@ -56,8 +56,8 @@ This tool is aimed at enhancing road safety by detecting actions such as texting
 ### 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/distracted-driver-detection.git
-cd distracted-driver-detection
+git clone https://github.com/hitha-cse513/DistractedDriverDetection.git
+cd DistractedDriverDetection
 ```
 
 ## Installation & Usage
