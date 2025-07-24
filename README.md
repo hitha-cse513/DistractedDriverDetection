@@ -74,8 +74,8 @@ Make sure the pre-trained model file `model_vgg16.h5` is available in the projec
 
 If not, you can:
 
-- Train the model using the provided Jupyter notebook.  
-- Or download pre-trained weights trained on the [State Farm Driver Dataset](https://www.kaggle.com/c/state-farm-distracted-driver-detection).
+- Train the model using Jupyter notebook or Google Colab. 
+  
 
 Place the `model_vgg16.h5` file in the root of the project directory.
 
