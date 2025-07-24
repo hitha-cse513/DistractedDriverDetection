@@ -6,7 +6,7 @@ The **Distracted Driver Detection** project is a Flask-based web application tha
 
 This tool is aimed at enhancing road safety by detecting actions such as texting, phone usage, or attentive driving, providing immediate feedback via an intuitive interface.
 
-🌐 **Website:** [https://distracteddriverdetection-1.onrender.com/](https://distracteddriverdetection-1.onrender.com/)
+🌐 **Website:** [https://distracteddriverdetection.onrender.com/](https://distracteddriverdetection.onrender.com/)
 ---
 
 ## Source
@@ -24,7 +24,7 @@ This tool is aimed at enhancing road safety by detecting actions such as texting
 * ⚡ **Real-Time Prediction**: Instant feedback on uploaded driver images.
 * 🖥️ **Flask Web App**: Easy-to-use and lightweight web interface for image uploads and classification.
 * 📊 **Awareness & Safety Insights**: Educates users on risky driving behaviors and promotes safer habits.
-* ♿ **Accessibility Features**: Interface designed for ease of use by all users, including those with disabilities.
+
 
 ---
 
@@ -115,16 +115,5 @@ If you wish to retrain the model:
 
 ---
 
-## Acknowledgments
-
-- Pretrained VGG16 Model from [Keras Applications](https://keras.io/api/applications/vgg/)
-- Dataset: [State Farm Distracted Driver Detection - Kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
-- Flask for backend web interface
-
----
-
-## License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
 
 
